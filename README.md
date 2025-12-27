@@ -221,9 +221,4 @@ This project demonstrates a functional **banking conversational AI chatbot** usi
 - TensorFlow deep learning
 - Streamlit interactive UI
 
-It can be used as:
 
-- portfolio project
-- academic research project
-- enterprise prototype
-- real-world banking assistant foundation
